@@ -1,7 +1,9 @@
 # amaliyot
 # Link for Website
 
-(https://web21-15-amaliyot.web.app/)[Click here]
+Link: ()
+
+[https://web21-15-amaliyot.web.app/](Click here)
 login: test@mail.ru
 password: 123456
 
